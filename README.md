@@ -15,3 +15,9 @@ Validata is a stand-alone data validation tool designed for oncology departments
 1. Clone this repository.
 2. Set up a Python virtual environment.
 3. Install dependencies.
+
+
+Created by:
+Kandrix Kim, Luciana Quirino, and Yusuf Khan
+The Michener Institute of Education
+Digital Health and Data Analytics 2024
