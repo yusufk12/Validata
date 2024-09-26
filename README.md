@@ -18,6 +18,7 @@ Validata is a stand-alone data validation tool designed for oncology departments
 
 
 Created by:
-Kandrix Kim, Luciana Quirino, and Yusuf Khan
-The Michener Institute of Education
-Digital Health and Data Analytics 2024
+Kandrix Kim, Luciana Quirino, and Yusuf Khan.
+
+- The Michener Institute of Education
+- Digital Health and Data Analytics 2024
